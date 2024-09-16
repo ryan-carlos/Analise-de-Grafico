@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Playpen+Sans:wght@100..800&display=swap');
+
+:root{
+    --bg-color: #C683D7;
+    --cor-pricipal: #ED9ED6;
+    --cor-secundaria: #FFC7C7;
+    --font: "Playpen Sans", cursive;
+}
+
+body{
+    background-color: var(--bg-color);
+    color: var(--cor-principal);
+    font-family: var(--font);
+    height: 100vh;
+    margin: 0;
+}
+
+header{
+    
+}
